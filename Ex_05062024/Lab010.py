@@ -15,14 +15,14 @@ print(type(name))
 # @ = 123
 # $ = 344
 _ = 123
-_name = "pramod"
-# $prampod = "pramod"
-# pramod$ = "Hello"
+_name = "Ruheen"
+# $Ruheen = "Ruheen"
+# Ruheen$ = "Hello"
 
 # variable name should not be any space
-# first name = "Pramod"
-first_name = "Pramod"
+# first name = "Ruheen"
+first_name = "Firdos"
 # Python love the snake case
-varaible_name = "pramod"
+varaible_name = "Ruheen"
 
 long_var_name_is_created_here = "Hello"

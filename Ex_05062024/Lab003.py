@@ -1,11 +1,10 @@
-age = 24
-print(type(age))
-age = 24.0
-print(type(age))
-age = True
-print(type(age))
-age = "tgt"
-print(type(age))
-age = 890
-print(type(age))
+a# print()
+# self - Concept in OOps which points to inself - ignore.
+# *args - Unlimited number of arguments * - string, int, float, boolean...
+# sep=' ' - How you want to seperate the arguments
+# end='\n' - in the end what you want to do
+# file=None - File IO
 
+
+# print("Hello", "World", 123, True, 3.14)
+print("Hi, My name is Ruheen", "Firdos",sep=" - ")
